@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\63815950075901fbcc1a30845a681516\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\8d6985c406652da2be0391b17f5e400d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\9f2ac80516c51d834cb39f3d2422310e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\9d48fe09809057f197989c5e37e4319a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\36314076002c7b0e2d0012e6c135aea2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\e87b37753c4cd586f46384b8bcf8e841\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\508547de5e6dc97e06f479b76781e533\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\d772485482c048b6ec521d16d790bd19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\14542ab968c6cb8503b4b2e40dce7a61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\8bb0a31d6594000ce63fcc696d6bb473\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\c501d27bc3451caab41be76f627d522c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\e3bb215bc9d7a6ed45ab32ce8d5a7e07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\4cf9c3b026fbd3ca528281e27cd74eb3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\981c39e982c2498e8da156daaaf024dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\67795e3427ec885c32dfd96628b1c8be\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\4883d145b1685cdd66a6008e9008ff23\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\a93fd809c6825ed1e0f98578ac10dbea\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\3e73c262eb62488db9e69adc48382604\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\430eb795e979855a8fa4ef3259152434\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\04b81c64c6559f5dad6a5a1c53cdac81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\e1af1c429fcedebea4c1885432bd83b2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\6591877bab2d0cb82683cb706a0ec9ba\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\227d503c029d8371cce3d5287708fc88\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\3d132c73b12434c96eb7a5ebfe0a9f9b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\e68872add49c00bb70abf892653cbe31\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\9aedd8cf20ce4e94f339d64d35573b29\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:18:5-45
+		INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+		INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+		INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:20:5-32:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\67795e3427ec885c32dfd96628b1c8be\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\67795e3427ec885c32dfd96628b1c8be\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\4883d145b1685cdd66a6008e9008ff23\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\4883d145b1685cdd66a6008e9008ff23\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\67795e3427ec885c32dfd96628b1c8be\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\63815950075901fbcc1a30845a681516\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\63815950075901fbcc1a30845a681516\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\8d6985c406652da2be0391b17f5e400d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\8d6985c406652da2be0391b17f5e400d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\9f2ac80516c51d834cb39f3d2422310e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\9f2ac80516c51d834cb39f3d2422310e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\9d48fe09809057f197989c5e37e4319a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\9d48fe09809057f197989c5e37e4319a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\36314076002c7b0e2d0012e6c135aea2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\36314076002c7b0e2d0012e6c135aea2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\e87b37753c4cd586f46384b8bcf8e841\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\e87b37753c4cd586f46384b8bcf8e841\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\508547de5e6dc97e06f479b76781e533\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\508547de5e6dc97e06f479b76781e533\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\d772485482c048b6ec521d16d790bd19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\d772485482c048b6ec521d16d790bd19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\14542ab968c6cb8503b4b2e40dce7a61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\14542ab968c6cb8503b4b2e40dce7a61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\8bb0a31d6594000ce63fcc696d6bb473\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\8bb0a31d6594000ce63fcc696d6bb473\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\c501d27bc3451caab41be76f627d522c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\c501d27bc3451caab41be76f627d522c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\e3bb215bc9d7a6ed45ab32ce8d5a7e07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\e3bb215bc9d7a6ed45ab32ce8d5a7e07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\4cf9c3b026fbd3ca528281e27cd74eb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\4cf9c3b026fbd3ca528281e27cd74eb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\981c39e982c2498e8da156daaaf024dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\981c39e982c2498e8da156daaaf024dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\67795e3427ec885c32dfd96628b1c8be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\67795e3427ec885c32dfd96628b1c8be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\4883d145b1685cdd66a6008e9008ff23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\4883d145b1685cdd66a6008e9008ff23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\a93fd809c6825ed1e0f98578ac10dbea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\a93fd809c6825ed1e0f98578ac10dbea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\3e73c262eb62488db9e69adc48382604\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\3e73c262eb62488db9e69adc48382604\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\430eb795e979855a8fa4ef3259152434\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\430eb795e979855a8fa4ef3259152434\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\04b81c64c6559f5dad6a5a1c53cdac81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\04b81c64c6559f5dad6a5a1c53cdac81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\e1af1c429fcedebea4c1885432bd83b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\e1af1c429fcedebea4c1885432bd83b2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\6591877bab2d0cb82683cb706a0ec9ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\6591877bab2d0cb82683cb706a0ec9ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\227d503c029d8371cce3d5287708fc88\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\227d503c029d8371cce3d5287708fc88\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\3d132c73b12434c96eb7a5ebfe0a9f9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\3d132c73b12434c96eb7a5ebfe0a9f9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\e68872add49c00bb70abf892653cbe31\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\e68872add49c00bb70abf892653cbe31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\9aedd8cf20ce4e94f339d64d35573b29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\asus\.gradle\caches\transforms-2\files-2.1\9aedd8cf20ce4e94f339d64d35573b29\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\asus\Downloads\Compressed\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
